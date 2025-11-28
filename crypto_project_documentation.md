@@ -265,3 +265,10 @@ You must submit:
 ------------------------------------------------------------------------
 
 # End of Documentation
+CORRELATION ANALYSIS
+VIF
+CLASS BALANCING(USE THE MODELS(LOGISTIC REGRESION, rANDOM FOREST))
+CROSS VALIDATION
+TYPES OF TREND IN TIME SERIES
+TIME SERIES SMOTE
+F1 SCORE
