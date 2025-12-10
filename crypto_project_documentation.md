@@ -188,7 +188,6 @@ Test multiple models:
 -   Random Forest\
 -   LightGBM\
 -   XGBoost\
-
 -   CatBoost\
 -   LSTM/GRU (bonus)
 
